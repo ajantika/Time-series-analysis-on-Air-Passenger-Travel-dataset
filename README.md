@@ -17,12 +17,12 @@ Index
 The Air Passenger dataset has seasonal effect and trend. 
 While forecasting, we can see that alpha = 0.73 which is close to one which means that more weight is place on the most recent observations. 
 
-######  Trend component
+## Trend component
 
 Long-run increase or decrease over time (overall upward or downward movement)
 Trend can be linear or nonlinear such as exponential growth
 
-#### Seasonality
+## Seasonality
 
 A seasonal pattern exists when a series is influenced by seasonal factors (e.g., the quarter of the year, the month, or day of the week). Seasonality is always of a fixed and known period. 
 
